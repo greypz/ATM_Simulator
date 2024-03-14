@@ -1,0 +1,32 @@
+[
+  {
+    "type": "Account",
+    "properties": {
+      "isim": "peyman",
+      "soyisim": "sus",
+      "tel_no": 5524663381,
+      "baslangic_parasi": 99999999,
+      "password": "1"
+    }
+  },
+  {
+    "type": "Account",
+    "properties": {
+      "isim": "aydin",
+      "soyisim": "sussy",
+      "tel_no": 5523177370,
+      "baslangic_parasi": 1002,
+      "password": "crewmate2013"
+    }
+  },
+  {
+    "type": "Account",
+    "properties": {
+      "isim": "sus_cat",
+      "soyisim": "black",
+      "tel_no": 1112223344,
+      "baslangic_parasi": 1000,
+      "password": "2"
+    }
+  }
+]
