@@ -31,3 +31,4 @@ class Account:
     def balanceinfo(self):
         print("Account Balance:",self.başlangıç_parası,"ඞ")
 
+##deneme
